@@ -1,0 +1,11 @@
+npm i aws-sdk body-parser express
+npm i -D dotenv nodemon
+
+npm run dev
+
+// Insert to dynamodb
+{
+  "id":"0006",
+  "name": "Oscar Bello",
+  "address": "London East"
+}
